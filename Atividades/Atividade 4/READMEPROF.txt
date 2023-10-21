@@ -1,0 +1,1 @@
+os entrada.csv e saida.csv estão na pasta output
